@@ -1,13 +1,3 @@
-# Authors React App Project
-
-| Team members       |
-| ------------------ |
-| Dean Leonard       |
-| Yury Ivashchanka   |
-| Naomi Carey        |
-| Nikolai Phalen     |
-| Ioan Lungu Tranole |
-
 ## Scope
 
 To create a publishing house application using React for client. This site will offer stories from the non-Western world. The following requirements for this project are:
